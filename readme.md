@@ -6,7 +6,7 @@ app.
 The theme source is located here: https://github.com/mhamel06/gatsby-theme-poc
 
 All theme configs and files can be overridden by creating a duplicate file as seen
-here: [theme-test/src/@mhamel06/gatsby-theme-events/theme.js](theme-test/src/@mhamel06/gatsby-theme-events/theme.js)
+here: [src/@mhamel06/gatsby-theme-events/theme.js](src/@mhamel06/gatsby-theme-events/theme.js)
 
 ## Install Gatsby
 https://www.gatsbyjs.org/tutorial/part-zero/#using-the-gatsby-cli
